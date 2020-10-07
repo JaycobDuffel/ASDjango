@@ -1,3 +1,4 @@
 {
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/Users/jaycobduffel/.local/share/virtualenvs/ASDjango-JwHz5q45/bin/python"
 }
