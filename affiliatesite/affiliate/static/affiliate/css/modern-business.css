@@ -20,3 +20,8 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.imgSize {
+  width: 100px;
+  height: 100px;
+}
